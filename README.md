@@ -37,7 +37,7 @@ Tweak personality, styling, or advanced prompt details for total creative freedo
 
 ---
 
-### **⚙️ Setup Instructions**
+### **⚙️ Setup Instructions (YouTube)**
 
 ---
 
