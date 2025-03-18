@@ -43,7 +43,7 @@ Tweak personality, styling, or advanced prompt details for total creative freedo
 
 Follow the instructions in the video below - even if you don't know a thing about coding. We'll make the process easy for you, guiding beginners step-by-step through the process:
 
-https://www.youtube.com/watch?v=w-w-dbKmfzg
+[![Watch the video on Youtube](https://img.youtube.com/vi/w-w-dbKmfzg/0.jpg)](https://www.youtube.com/watch?v=w-w-dbKmfzg)
 
 To obtain the "Automated" label, you'll need to change it in "Settings > Your Account > Account Information > Automation". Otherwise, posts by iAgent Protocol will appear human without the label.
 
