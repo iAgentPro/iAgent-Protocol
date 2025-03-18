@@ -1,10 +1,10 @@
-# iAgent Protocol 🤖: Create & Own Your Own Agents
+# iAgent Protocol: Create & Own Your Own Agents
 
 ![iAgent Protocol Logo](https://iagentprotocol.org/biglogo.png)
 
 **iAgent Protocol** is an open-source AI agent deployer that allows you to create and manage multiple AI agents with unique personalities and styles. The agent deployer operates locally (on your own machine), ensuring your API keys remain private and secure.
 
-# 🤖 iAgent Protocol Benefits 🌟
+# 🤖 iAgent Protocol Benefits
 
 ![iAgent Protocol Interface](https://iagentprotocol.org/interface.png)
 
