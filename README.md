@@ -45,6 +45,8 @@ Follow the instructions in the video below - even if you don't know a thing abou
 
 [![Watch the video on Youtube](https://iagentprotocol.org/thumb.png)](https://www.youtube.com/watch?v=w-w-dbKmfzg)
 
+➡️https://www.youtube.com/watch?v=w-w-dbKmfzg
+
 To obtain the "Automated" label, you'll need to change it in "Settings > Your Account > Account Information > Automation". Otherwise, posts by iAgent Protocol will appear human without the label.
 
 > **Note:** We recommend using the agent deployer on older/verified accounts. New accounts may encounter issues with automation.
