@@ -57,7 +57,7 @@ Follow the instructions in the video below - even if you don't know a thing abou
 
 Node JS is a prerequisite, and the software won't work withoutt it. [Download Node JS](https://nodejs.org/en/download), install it on your computer, and reset. You can then proceed with the installation.
 
-Start by obtaining keys from OpenAI API and Twitter API. Twitter API is free but for OpenAI you'll need to fund your account with at least $5 worth of tokens for a substantial amount of tweets.
+Start by obtaining keys from OpenAI API and Twitter API. Twitter API is free but for OpenAI you'll need to fund your account with tokens for a substantial amount of tweets.
 
 ---
 
