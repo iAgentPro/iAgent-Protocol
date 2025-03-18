@@ -4,6 +4,10 @@
 
 **iAgent Protocol** is an open-source AI agent deployer that allows you to create and manage multiple AI agents with unique personalities and styles. The agent deployer operates locally (on your own machine), ensuring your API keys remain private and secure.
 
+Twitter: ![x.com/TheiAgent](https://x.com/TheiAgent)
+Telegram Community: ![t.me/iAgentPortal](https://t.me/iAgentPortal)
+Setup Video: ![https://youtu.be/w-w-dbKmfzg?si=_ocw4ztNV0-C6zfL](https://youtu.be/w-w-dbKmfzg?si=_ocw4ztNV0-C6zfL)
+
 # 🤖 iAgent Protocol Benefits
 
 ![iAgent Protocol Interface](https://iagentprotocol.org/interfac.png)
@@ -43,9 +47,9 @@ Tweak personality, styling, or advanced prompt details for total creative freedo
 
 Follow the instructions in the video below - even if you don't know a thing about coding. We'll make the process easy for you, guiding beginners step-by-step through the process:
 
-[![Watch the video on Youtube](https://iagentprotocol.org/thumb.png)](https://www.youtube.com/watch?v=w-w-dbKmfzg)
-
 ➡️https://www.youtube.com/watch?v=w-w-dbKmfzg
+
+[![Watch the video on Youtube](https://iagentprotocol.org/thumb.png)](https://www.youtube.com/watch?v=w-w-dbKmfzg)
 
 > **Note:** We recommend using the agent deployer on older/verified accounts. New accounts may encounter issues with automation.
 
